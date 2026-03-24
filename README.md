@@ -13,9 +13,6 @@ Soy actualmente un estudiante en proceso en 1ºASIR,soy una
 - 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/feed/) 
 
 
-
---
-
 ## Aptitudes principales (actuales)
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a></p>
